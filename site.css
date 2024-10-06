@@ -1,0 +1,60 @@
+﻿body {
+    font-family: 'Pacifico', cursive;
+    background-color: #FFE5E5; /* Нежно-розовый */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FFCCCC; /* Нежно-персиковый */
+    padding: 20px;
+    text-align: center;
+}
+
+    header h1 {
+        margin: 0;
+        font-size: 2em;
+    }
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #FF6666; /* Нежно-розовый */
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+img {
+    width: 300px; /* Фиксированная ширина */
+    height: auto; /* Автоматическая высота */
+    display: block;
+    margin: 10px 0;
+}
+
+a {
+    color: #FF6666; /* Нежно-розовый */
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
